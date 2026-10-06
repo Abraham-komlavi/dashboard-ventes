@@ -1,5 +1,7 @@
 # Tableau de bord des ventes — boutique de vêtements
 
+👉 **Démo en ligne : https://komlavi-dashboard-ventes.streamlit.app/**
+
 Dashboard interactif construit avec **Python, pandas, Plotly et Streamlit**, à partir des ventes (fictives) d'une boutique de vêtements sur 21 mois.
 
 ## Ce qu'il montre
