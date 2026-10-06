@@ -22,3 +22,5 @@ Le dashboard s'ouvre sur http://localhost:8501.
 
 ## Auteur
 Elvis Agbo Komlavi — Étudiant M1 Data Science & IA (Coda)
+
+LinkedIn : https://www.linkedin.com/in/abraham-komlavi
